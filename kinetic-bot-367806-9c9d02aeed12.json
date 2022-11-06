@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kinetic-bot-367806",
+  "private_key_id": "9c9d02aeed12d719b091fe14e85920642eb4f7e2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC5iFo3/Ek1I6dT\nM9OgimycR/7opJv1VaWDdDh37vdO04ga3q+weTKwVeCfIQ5DNHrYxTuy8O6iFwdD\nNAJi2F0lo7XAmt7j+4UXQ9xxSBeTZMmWfBYR7RJbvNtobQisMMFcAsLmUUbOCbg6\na1NFJQ3xSkCidFD2A5m9EDWWS6VAbd8tUDWUupmgF7av5Rd5EBPFBO9QHT1cJFEV\nGbqwJbvjbPheuVgtx86yY/nlKNxIatt5SRNpArwJJlxuPaaRd7CgkcRqngkHPL/8\nm2hzIdvnZSXuRLfhWSjfxfYzZU1qhCzGQiidNzRmsYn1jPIbQsdjrQ6nmdqzpi+3\n2K53VQvLAgMBAAECggEABrDEwBwYRRL3Z71eC6iyPfiCrWpc4r38l/71l62bEXv4\nqS9lRTHkWA42FBxMYrQJHLlla7swf9E2G9Wg+GY2Wwh093Bzn+O5avCxibbrKA+M\nYswwEjlrCLqIwafyQMiz+wNxJSkX1TpDKygk+pYEKLK1c1D1J8n9c0nwWhkkPmx9\nX4mLOB7un/nGQBr0HPsfowVZ7MpdWTT8Cs0/Vm25QTx5iDGLuYHA9UtG7hPd+iPw\nw/1LHS9sJXqeLS95MENAnlD+/2IxvJDWgDxdHWUALtRiUyFigx6xXTEmMrlh/Rvs\niUQkYAB4TdJW/EZSh7LfO1r/zkZVonLlt2echy4lQQKBgQD3ur7qU6ItD8X/JdaS\n5P28XU8hPlWGIrWn65NiF7Is/h4J8EVmGkJcjoT30ZLTsgoVrOrc3u50S/HavBXf\nJsjUwk7eIbQtB5cz38fRCDecB+ORmM4lfpyBJ5xXxrWLhLQ3Cckam8xf+YTJvTL6\noWz2juFkshGkHO6/0msjAnW0MQKBgQC/ughdohAcYTEyLB6rlM3jMk8V+sjbKUra\nAJV++fhlDUWtSz1uv6onEW5UU43LkMEUqfzSHAnhrLrKXWnjB/2Mn575mN7C7hvK\niLGBISvwKrEwJyIMKBzdUJ+u5zUh47pDBWh7+PLruFo7D/yBnqg4SjDtV3CJZ++s\nmIUqiAIsuwKBgQCISK47D2OK0sCkS1auXVfRxqt/qGE4d+Pjy0+7iTm2Ut6HrS0g\nrJWRgb5Y72yNFcdCgWx7shEQ3a7iHNMTfqzBj1wADB6pHyHpodS1hIXDSvvA34WZ\nTvweeYIjL+g0Jv9VwAZoowleS1DoAzQGecQOKDCLSwM1e81ErifOjM3gIQKBgD/Z\nMyoDa3wX/esoeDpJvtr3iRDXyIX71VqOMTrtAgSdC+QvF1FHcOG701Mv1BvDpBk+\nltxdzAiknjwAKeAabByll6qldyHRa93h8cMACgLcJM/VaGhF/37Qd60mgDI+BWyG\nY4pNmJBZf2sF4uBDtt+wDWUs5mRMAawnyskkLB07AoGBALuOobc0QIKvS65W/dbp\nq11t67mGgVxNmbjTEs6l9o+91mez9EJv8w66j+GJfi49ZRTlx7c1bRZOmZfuAX+a\nEOVcDyp+iZrUiEm1DGeEt8Uz3qiyEazEriCnSZBsk0i2v7AyXaws/qMSc5V6Ak8T\nKK7l/aB4+dWVGfrrkriudIvY\n-----END PRIVATE KEY-----\n",
+  "client_email": "pygsheet@kinetic-bot-367806.iam.gserviceaccount.com",
+  "client_id": "109751674501289896226",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pygsheet%40kinetic-bot-367806.iam.gserviceaccount.com"
+}
